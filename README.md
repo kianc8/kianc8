@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming in Python and mathematics
 - 🌱 I’m currently learning mathematics at Queen Mary University of London
 - 💞️ I’m looking to collaborate on Python projects
-- 📫 How to reach me by email @kianxhc@gmail.com
+- 📫 How to reach me by email @kianzhc@gmail.com
 
 <!---
 kianc8/kianc8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
