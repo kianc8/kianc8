@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kianc8
+- 👋 Hi, I’m @kian
 - 👀 I’m interested in programming in Python and mathematics
-- 🌱 I’m currently learning mathematics at Queen Mary University of London
+- 🌱 I’m currently learning MSc Financial Statistics at LSE
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me by email @kianzhc@gmail.com
 
