@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kian
+- 👋 Hi, I’m @kianc8
 - 👀 I’m interested in programming in Python and mathematics
 - 🌱 I’m currently learning MSc Financial Statistics at LSE
 - 💞️ I’m looking to collaborate on Python projects
